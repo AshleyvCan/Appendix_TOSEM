@@ -1,4 +1,4 @@
-# Online Appendix of the paper "Between Predictive Quality and Energy: The Impact of In-Prompt Batch Size in LLM-Based Classification for Software Engineering"
+# Online Appendix of the paper "Between Predictive Quality and Energy: The Impact of In-Prompt Batch Size in LLM-Based Classification for Software Engineering Tasks"
 
 In this paper, we assess the impact of the in-prompt batch size on the predictive quality and energy consumption of an LLM.
 The appendix contains two main folders: experiment and raw_results.
