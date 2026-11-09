@@ -10,15 +10,11 @@ This folder consists of four subfolders: Task 1, Task 2, Data Selection, Cohen K
 - `energy_info_run{i}.xlsx` presents raw energy consumed and carbon emission per model, dataset and batch size setting for run i, Task 1.
 - `predictive_quality_scores_task1.xlsx` contains the predictive quality data of Task 1, including the adjusted F1 scores that take into account the missing predictions (F1_lower, F1_random, F2_upper).
 
-#### Subsubfolder Post-hoc test
-This folder contains two subfolders with the p-value results from the Nemenyi post-hoc test for Energy consumption and Predictive Quality.
 
 ### Subfolder Task 2
 - `energy_info_run{i}.xlsx` presents raw energy consumed and carbon emission per model, dataset and batch size setting for run i, Task 2.
 - `predictive_quality_scores_task2.xlsx` contains the predictive quality data of Task 2, including the adjusted F1 scores that take into account the missing predictions (F1_lower, F1_random, F2_upper).
 
-#### Subsubfolder Post-hoc test
-This folder contains two subfolders with the p-value results from the Nemenyi post-hoc test for Energy consumption and Predictive Quality.
 
 ### Subfolder: Dataset Selection
 This subfolder contains the Excel file listing the papers considered for the experiments, along with the reasons for their exclusion.
